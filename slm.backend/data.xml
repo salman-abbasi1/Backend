@@ -2,7 +2,7 @@
  <aptech xmlns:cpism="abccpism.com">
     <student>
         <cpism:id>101</cpism:id>
-        <name>ali</name>
+        <cpism:name>ali</cpism:name>
         <age>18</age>
         <email>ali@gmail.com</email>
         <city>Karachi</city>
