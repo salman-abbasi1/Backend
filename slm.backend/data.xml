@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
- <aptech>
+ <aptech xmlns:cpism="abccpism.com">
     <student>
-        <id>101</id>
+        <cpism:id>101</cpism:id>
         <name>ali</name>
         <age>18</age>
         <email>ali@gmail.com</email>
