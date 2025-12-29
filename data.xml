@@ -1,38 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
- <aptech xmlns:cpism="abccpism.com">
+ <aptech xmlns:cpism="https//:cpism.com" xmlns:dism="https//:dism.com">
     <student>
         <cpism:id>101</cpism:id>
         <cpism:name>ali</cpism:name>
-        <age>18</age>
-        <email>ali@gmail.com</email>
-        <city>Karachi</city>
+        <cpism:age>18</cpism:age>
+        <cpism:email>ali@gmail.com</cpism:email>
+        <cpism:city>Karachi</cpism:city>
     </student>
+
     <student>
-        <id>102</id>
-        <name>ali</name>
-        <age>18</age>
-        <email>ali@gmail.com</email>
-        <city>Karachi</city>
+        <cpism:id>102</cpism:id>
+        <cpism:name>hamza</cpism:name>
+        <cpism:age>19</cpism:age>
+        <cpism:email>hamza@gmail.com</cpism:email>
+        <cpism:city>Karachi</cpism:city>
     </student>
+
     <student>
-        <id>103</id>
-        <name>ali</name>
-        <age>18</age>
-        <email>ali@gmail.com</email>
-        <city>Karachi</city>
+        <dism:id>103</dism:id>
+        <dism:name>zayn</dism:name>
+        <dism:age>20</dism:age>
+        <dism:email>zayn@gmail.com</dism:email>
+        <dism:city>Karachi</dism:city>
     </student>
+
     <student>
-        <id>104</id>
-        <name>ali</name>
-        <age>18</age>
-        <email>ali@gmail.com</email>
-        <city>Karachi</city>
+        <dism:id>104</dism:id>
+        <dism:name>saad</dism:name>
+        <dism:age>20</dism:age>
+        <dism:email>saad@gmail.com</dism:email>
+        <dism:city>Karachi</dism:city>
     </student>
-    <student>
-        <id>105</id>
-        <name>ali</name>
-        <age>18</age>
-        <email>ali@gmail.com</email>
-        <city>Karachi</city>
-    </student>
+    
  </aptech>
