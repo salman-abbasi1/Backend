@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE aptech [
+    <!ELEMENT aptech (student*)>
+    <!ELEMENT student (id,name, (email | contact))>
+    <!ELEMENT id (#PCDATA)>
+    <!ELEMENT name (#PCDATA)>
+    <!ELEMENT email (#PCDATA)>
+    <!ELEMENT contact (#PCDATA)>
+
+]>
+<aptech>
+    <student>
+        <id>1</id>
+        <name>Ali</name>
+        <email>ali@gmail.com</email>
+    </student>
+    <student>
+        <id>2</id>
+        <name>Hamza</name>
+        <contact>000-111-222-33</contact>
+    </student>
+</aptech>
