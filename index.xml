@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="data.xsl" type="text/xsl"?>
+<aptech>
+    <student>
+        <name>Ali</name>
+        <email>ali@gmail.com</email>
+        <city>Karachi</city>
+    </student>
+
+    <student>
+        <name>Hamza</name>
+        <email>hamza@gmail.com</email>
+        <city>Lahore</city>
+    </student>
+
+    <student>
+        <name>Bilal</name>
+        <email>Bilal@gmail.com</email>
+        <city>Karachi</city>
+    </student>
+
+    <product>
+        <watch>
+            <p>Watch 1</p>
+            <description>Best Watch</description>
+            <price>5000</price>
+        </watch>
+    </product>
+
+    <product>
+        <watch>
+            <p>Watch 2</p>
+            <description>Best Watch</description>
+            <price>5000</price>
+        </watch>
+    </product>
+</aptech>
