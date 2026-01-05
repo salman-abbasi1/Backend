@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="schema.xsd" type="application/xml" schematypens="http://www.w3.org/2001/XMLSchema"?>
+<aptech>
+    <student>
+        <name>ali</name>
+        <age>18</age>
+        <email>ali@gmail.com</email>
+    </student>
+
+    <student>
+        <name>zain</name>
+        <age>18</age>
+        <email>zain@gmail.com</email>
+    </student>
+
+    <student>
+        <name>hamza</name>
+        <age>18</age>
+        <email>ali@gmail.com</email>
+    </student>
+</aptech>
