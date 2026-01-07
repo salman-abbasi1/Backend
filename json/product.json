@@ -1,0 +1,20 @@
+[
+    {
+        "p_name": "Watch 1",
+        "p_description": "Best watches",
+        "p_price": 3000,
+        "p_image": "https://images.pexels.com/photos/190819/pexels-photo-190819.jpeg"
+    },
+    {
+        "p_name": "Watch 2",
+        "p_description": "Best watches",
+        "p_price": 3000,
+        "p_image": "https://images.pexels.com/photos/280250/pexels-photo-280250.jpeg"
+    },
+        {
+        "p_name": "Watch 2",
+        "p_description": "Best watches",
+        "p_price": 3000,
+        "p_image" : "https://images.pexels.com/photos/277390/pexels-photo-277390.jpeg"
+    }
+]

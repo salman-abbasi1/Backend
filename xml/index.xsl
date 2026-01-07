@@ -6,7 +6,7 @@
 
         <html>
             <body>
-                <!-- <table border='2' cellpadding='10' cellspacing='2'>
+                <table border='2' cellpadding='10' cellspacing='2'>
                     <tr>
                         <th>Name</th>
                         <th>Email</th>
@@ -28,7 +28,7 @@
                         </tr>
                     </xsl:for-each>
 
-                </table> -->
+                </table>
 
             </body>
         </html>
