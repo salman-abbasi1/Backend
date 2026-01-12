@@ -1,11 +1,11 @@
 var name= "aptech"
-document.writeln(name , '<br>')
+document.write(name , '<br>')
 
 let name1= "aptech sfc"
-document.writeln(name1 , '<br>')
+document.write(name1 , '<br>')
 
 const name2= "aptech malir"
-document.writeln(name2 , '<br>')
+document.write(name2 , '<br>')
 
 // block scope 
 
@@ -14,11 +14,11 @@ document.writeln(name2 , '<br>')
     document.write(age, '<br>') //it will not work outside
 
     let name1="ali"
-    document.writeln(name1 , '<br>') //it will not work outside
+    document.write(name1 , '<br>') //it will not work outside
 
     var id = 12 //global scope variable
 }
-document.writeln(id , '<br>') 
+document.write(id , '<br>') 
 
 // simple functon / invoke function 
 
@@ -35,7 +35,7 @@ let d = 5
 // function with parameters and argument
 
 function students(name){
-    document.writeln(name, '<br>')
+    document.write(name, '<br>')
 }
 students ("ali")
 students ("zain")
@@ -44,13 +44,13 @@ students ("hamza")
 // function with return 
 
 function calculate(num1,num2){
-    document.writeln(num1+num2, '<br>')
+    document.write(num1+num2, '<br>')
     return num1 + num2
 }
 
 let result = calculate(15,15)
 
 function hello(){
-    document.writeln(result)
+    document.write(result)
 }
 hello()
