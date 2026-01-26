@@ -7,7 +7,7 @@ document.write('This is Stop Method <br> <br>')
 }
 }
 
-class electicCar extends Car{
+class electicCar extends Car{       //inheritance
     drive(){
         super.drive()
         document.write('This is drive method of electric car  <br>') //method overiding & polymorphism
