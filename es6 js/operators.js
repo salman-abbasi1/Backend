@@ -18,3 +18,14 @@ for(value of arr3){
     document.write(value , '<br>')
 }
 console.log(arr3)
+
+let obj1 = {
+    name : 1
+}
+
+let obj2 = {
+    id : 2
+}
+
+let obj3 = {...obj1 , ...obj2}
+console.log(obj3)
