@@ -29,3 +29,25 @@ let obj2 = {
 
 let obj3 = {...obj1 , ...obj2}
 console.log(obj3)
+
+//Logical OR "||"
+
+let std = {
+    id : 1,
+    name : 'Hamza',
+    email : ''
+}
+console.log(std.email || '@gmail.com')  // It changes when there is 
+                                        // not any value or null or undefined
+
+//Nullish Coalecing "??"
+
+let std2={
+    id : 2,
+    name : 'Zayn',
+    email : 
+}
+console.log(std2?.email )
+
+//Optional Chaning "?."
+

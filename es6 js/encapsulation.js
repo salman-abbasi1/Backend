@@ -1,3 +1,4 @@
+//Encapsulation
 class bankAccount{
     #balance
     constructor(owner, balance){

@@ -1,3 +1,4 @@
+//Abstraction
 class Pc{
     #cpuOn(){
         console.log("CPU is turning on")
